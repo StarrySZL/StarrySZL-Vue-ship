@@ -1,0 +1,8 @@
+[33m49916c9[m[33m ([m[1;36mHEAD -> [m[1;32muser[m[33m, [m[1;31morigin/user[m[33m)[m HEAD@{0}: commit: 测试提交
+[33m71f7308[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/login[m[33m, [m[1;32mmaster[m[33m, [m[1;32mlogin[m[33m)[m HEAD@{1}: checkout: moving from login to user
+[33m71f7308[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/login[m[33m, [m[1;32mmaster[m[33m, [m[1;32mlogin[m[33m)[m HEAD@{2}: checkout: moving from master to login
+[33m71f7308[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/login[m[33m, [m[1;32mmaster[m[33m, [m[1;32mlogin[m[33m)[m HEAD@{3}: merge login: Fast-forward
+[33mbb243f8[m HEAD@{4}: checkout: moving from login to master
+[33m71f7308[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/login[m[33m, [m[1;32mmaster[m[33m, [m[1;32mlogin[m[33m)[m HEAD@{5}: commit: 完成登陆功能
+[33mbb243f8[m HEAD@{6}: checkout: moving from master to login
+[33mbb243f8[m HEAD@{7}: commit (initial): add files
